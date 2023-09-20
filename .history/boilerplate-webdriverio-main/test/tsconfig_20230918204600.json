@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "types": [
+            "node",
+            
+            "@wdio/mocha-framework",
+            "expect-webdriverio",
+            "jquery"
+        ],
+        "target": "es2019"
+    }
+}
